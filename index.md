@@ -3,7 +3,7 @@
 Here is a sample:
 
 <audio controls>
-  <source src="/refrain/Meet_My_Ways.mp3" type="audio/mpeg">
+  <src="/refrain/Meet_My_Ways.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
