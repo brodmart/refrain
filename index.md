@@ -4,8 +4,8 @@ Here is a sample:
 
 audio controls
   source src="/refrain/Meet_My_Ways.mp3" type="audio/mpeg"
-  <audio src="/refrain/Meet_My_Ways.mp3" controls />
+  <audio src="https://rawgit.com/brodmart/refrain/Meet_My_Ways.mp3" controls />
 Your browser does not support the audio element.
-/audio
+audio
 
 new
